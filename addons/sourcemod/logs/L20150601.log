@@ -1,0 +1,31 @@
+L 06/01/2015 - 18:33:32: SourceMod log file session started (file "L20150601.log") (Version "1.7.2-dev+5203")
+L 06/01/2015 - 18:33:32: -------- Mapchange to de_dust --------
+L 06/01/2015 - 18:33:32: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/01/2015 - 18:33:34: [warmod.smx] Current Map: de_dust
+L 06/01/2015 - 18:33:36: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/01/2015 - 18:33:37: [warmod.smx] Current Map: de_cache  Workshop ID: 163589843
+L 06/01/2015 - 18:34:32: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/01/2015 - 18:34:33: [warmod.smx] Current Map: de_cache  Workshop ID: 163589843
+L 06/01/2015 - 18:35:36: [warmod.smx] "set_t_name" (player "Console<0><Console><Console>") (name "squids")
+L 06/01/2015 - 18:35:40: [warmod.smx] "set_ct_name" (player "Console<0><Console><Console>") (name "kids")
+L 06/01/2015 - 18:35:54: [warmod.smx] "knife_on_3" (player "Console<0><Console><Console>")
+L 06/01/2015 - 18:35:54: [warmod.smx] "force_start" (player "Console<0><Console><Console>")
+L 06/01/2015 - 18:36:15: [warmod.smx] "knife_on_3" (player "Console<0><Console><Console>")
+L 06/01/2015 - 18:36:15: [warmod.smx] "force_start" (player "Console<0><Console><Console>")
+L 06/01/2015 - 18:36:26: [warmod.smx] "knife_on_3" (player "Console<0><Console><Console>")
+L 06/01/2015 - 18:36:26: [warmod.smx] "force_start" (player "Console<0><Console><Console>")
+L 06/01/2015 - 18:43:11: Log file closed.
+L 06/01/2015 - 18:43:25: SourceMod log file session started (file "L20150601.log") (Version "1.7.2-dev+5203")
+L 06/01/2015 - 18:43:25: -------- Mapchange to de_dust --------
+L 06/01/2015 - 18:43:25: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/01/2015 - 18:43:26: [warmod.smx] Current Map: de_dust
+L 06/01/2015 - 18:43:29: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/01/2015 - 18:43:30: [warmod.smx] Current Map: de_cache  Workshop ID: 163589843
+L 06/01/2015 - 18:43:35: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/01/2015 - 18:43:36: [warmod.smx] Current Map: de_cache  Workshop ID: 163589843
+L 06/01/2015 - 18:43:59: [warmod.smx] "set_ct_name" (player "Console<0><Console><Console>") (name "kids")
+L 06/01/2015 - 18:44:09: [warmod.smx] "set_t_name" (player "Console<0><Console><Console>") (name "squids")
+L 06/01/2015 - 18:44:20: [warmod.smx] "knife_on_3" (player "Console<0><Console><Console>")
+L 06/01/2015 - 19:05:39: -------- Mapchange to workshop/401145257/de_fire --------
+L 06/01/2015 - 19:05:40: [warmod.smx] Current Map: de_fire  Workshop ID: 401145257
+L 06/01/2015 - 19:05:54: Log file closed.

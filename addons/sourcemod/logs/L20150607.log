@@ -1,0 +1,62 @@
+L 06/07/2015 - 13:29:43: SourceMod log file session started (file "L20150607.log") (Version "1.7.2-dev+5203")
+L 06/07/2015 - 13:29:43: -------- Mapchange to de_dust --------
+L 06/07/2015 - 13:29:43: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/07/2015 - 13:29:45: [warmod.smx] Current Map: de_dust
+L 06/07/2015 - 13:29:47: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 13:29:48: [warmod.smx] Current Map: de_cache  Workshop ID: 163589843
+L 06/07/2015 - 13:29:56: Log file closed.
+L 06/07/2015 - 13:32:32: SourceMod log file session started (file "L20150607.log") (Version "1.7.2-dev+5203")
+L 06/07/2015 - 13:32:32: -------- Mapchange to de_dust --------
+L 06/07/2015 - 13:32:32: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/07/2015 - 13:32:34: [warmod.smx] Current Map: de_dust
+L 06/07/2015 - 13:32:36: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 13:32:37: [warmod.smx] Current Map: de_cache  Workshop ID: 163589843
+L 06/07/2015 - 13:34:11: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 06/07/2015 - 13:34:11: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 06/07/2015 - 13:34:12: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 13:34:13: [warmod.smx] Current Map: de_cache  Workshop ID: 163589843
+L 06/07/2015 - 13:34:45: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 13:36:03: [warmod.smx] "force_start" (player "Console<0><Console><Console>")
+L 06/07/2015 - 13:44:15: Log file closed.
+L 06/07/2015 - 13:44:31: SourceMod log file session started (file "L20150607.log") (Version "1.7.2-dev+5203")
+L 06/07/2015 - 13:44:31: -------- Mapchange to de_dust --------
+L 06/07/2015 - 13:44:31: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/07/2015 - 13:44:32: [warmod.smx] Current Map: de_dust, Warmod Version: 0.4.2
+L 06/07/2015 - 13:44:35: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 13:44:36: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 13:45:01: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 13:45:02: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 13:45:56: [warmod.smx] "force_start" (player "Console<0><Console><Console>")
+L 06/07/2015 - 13:58:19: -------- Mapchange to workshop/401145257/de_fire --------
+L 06/07/2015 - 13:58:20: [warmod.smx] Current Map: de_fire,  Workshop ID: 401145257, Warmod Version: 0.4.2
+L 06/07/2015 - 13:58:44: Log file closed.
+L 06/07/2015 - 14:36:35: SourceMod log file session started (file "L20150607.log") (Version "1.7.2-dev+5203")
+L 06/07/2015 - 14:36:35: -------- Mapchange to de_dust --------
+L 06/07/2015 - 14:36:35: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/07/2015 - 14:36:36: [warmod.smx] Current Map: de_dust, Warmod Version: 0.4.2
+L 06/07/2015 - 14:36:38: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 14:36:39: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 14:37:08: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 14:37:09: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 14:37:42: Log file closed.
+L 06/07/2015 - 14:38:07: SourceMod log file session started (file "L20150607.log") (Version "1.7.2-dev+5203")
+L 06/07/2015 - 14:38:07: -------- Mapchange to de_dust --------
+L 06/07/2015 - 14:38:07: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/07/2015 - 14:38:08: [warmod.smx] Current Map: de_dust, Warmod Version: 0.4.2
+L 06/07/2015 - 14:38:10: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 14:38:11: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 14:38:29: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 14:38:30: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 14:39:49: Log file closed.
+L 06/07/2015 - 14:45:40: SourceMod log file session started (file "L20150607.log") (Version "1.7.2-dev+5203")
+L 06/07/2015 - 14:45:40: -------- Mapchange to de_dust --------
+L 06/07/2015 - 14:45:40: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 06/07/2015 - 14:45:41: [warmod.smx] Current Map: de_dust, Warmod Version: 0.4.2
+L 06/07/2015 - 14:45:43: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 14:45:44: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 14:46:31: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 14:46:31: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 14:51:03: [warmod.smx] "force_start" (player "Console<0><Console><Console>")
+L 06/07/2015 - 15:05:46: -------- Mapchange to workshop/163589843/de_cache --------
+L 06/07/2015 - 15:05:47: [warmod.smx] Current Map: de_cache,  Workshop ID: 163589843, Warmod Version: 0.4.2
+L 06/07/2015 - 15:06:27: Log file closed.

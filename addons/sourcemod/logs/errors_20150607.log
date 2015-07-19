@@ -1,0 +1,16 @@
+L 06/07/2015 - 13:36:03: SourceMod error session started
+L 06/07/2015 - 13:36:03: Info (map "workshop/163589843/de_cache") (file "errors_20150607.log")
+L 06/07/2015 - 13:36:03: [warmod.smx] [WarMod] GOTV is not enabled - Please enable to record demos or disable wm_auto_record
+L 06/07/2015 - 13:44:15: Error log file session closed.
+L 06/07/2015 - 13:45:02: SourceMod error session started
+L 06/07/2015 - 13:45:02: Info (map "workshop/163589843/de_cache") (file "errors_20150607.log")
+L 06/07/2015 - 13:45:02: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 06/07/2015 - 13:45:02: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 06/07/2015 - 13:45:02: [UPDATER] Error: The requested URL returned error: 521
+L 06/07/2015 - 13:45:02: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 06/07/2015 - 13:45:56: [warmod.smx] [WarMod] GOTV is not enabled - Please enable to record demos or disable wm_auto_record
+L 06/07/2015 - 13:58:19: Error log file session closed.
+L 06/07/2015 - 14:51:03: SourceMod error session started
+L 06/07/2015 - 14:51:03: Info (map "workshop/163589843/de_cache") (file "errors_20150607.log")
+L 06/07/2015 - 14:51:03: [warmod.smx] [WarMod] GOTV is not enabled - Please enable to record demos or disable wm_auto_record
+L 06/07/2015 - 15:05:46: Error log file session closed.

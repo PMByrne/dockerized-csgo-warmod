@@ -1,0 +1,14 @@
+L 06/20/2015 - 16:32:26: SourceMod error session started
+L 06/20/2015 - 16:32:26: Info (map "de_bazaar") (file "errors_20150620.log")
+L 06/20/2015 - 16:32:26: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 06/20/2015 - 16:32:26: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 06/20/2015 - 16:32:26: [UPDATER] Error: The requested URL returned error: 417
+L 06/20/2015 - 16:32:26: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 06/20/2015 - 16:32:27: Error log file session closed.
+L 06/20/2015 - 17:37:11: SourceMod error session started
+L 06/20/2015 - 17:37:11: Info (map "workshop/401145257/de_fire") (file "errors_20150620.log")
+L 06/20/2015 - 17:37:11: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 06/20/2015 - 17:37:11: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 06/20/2015 - 17:37:11: [UPDATER] Error: The requested URL returned error: 417
+L 06/20/2015 - 17:37:11: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 06/20/2015 - 17:37:13: Error log file session closed.
